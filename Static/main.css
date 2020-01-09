@@ -9,7 +9,7 @@ body {
   content: "";
   height: 100vh; /* vh = view port heigh, 100vh = takes up entire browser */
   width: 100%;
-  background-image: url(/Img/showcase.jpg);
+  background-image: url(/Img/bgimg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
